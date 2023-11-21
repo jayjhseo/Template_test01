@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS sbb4_dev;
+CREATE DATABASE sbb4_dev;
+USE sbb4_dev;
